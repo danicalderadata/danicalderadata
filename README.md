@@ -1,6 +1,5 @@
 ### Hello!
 
-<!--
 I'm Daniel Caldera
 
 I'm a data scientist creating solutions that mix analytics, automation, and creative insights to help teams work smarter.
