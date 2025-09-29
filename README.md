@@ -5,7 +5,7 @@ I'm Daniel Caldera
 
 I'm a data scientist creating solutions that mix analytics, automation, and creative insights to help teams work smarter.
 
-**danicalderascience** is a space where I share my work in data science, analytics, and automation. The idea is simple: explore, build, and show how data can be used to solve real problems 🚀.
+**danicalderadata** is a space where I share my work in data science, analytics, and automation. The idea is simple: explore, build, and show how data can be used to solve real problems 🚀.
 
 Here you’ll find:
 
